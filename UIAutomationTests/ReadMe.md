@@ -1,4 +1,4 @@
-﻿# Gallery UI Automation 
+﻿# UI Automation 
 Project developed in selenium, specflow and dot net technology. this project handles end to end Gallery UI testing.
 
 # Prerequisite 
