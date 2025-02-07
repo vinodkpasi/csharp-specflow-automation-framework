@@ -10,7 +10,6 @@ namespace UIAutomationTests.Pages
         public BasePage(IWebDriver driver)
         {
             this.driver = driver;
-            this.driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(60);
             this.driver.Manage().Window.Maximize();
         }
 
